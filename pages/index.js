@@ -3,7 +3,7 @@ import { useState } from 'react'
 function Home(){
   return (
     <div>
-      <h1>Diga quantas vezes a borboletinha que vir para Itanhaém</h1>
+      <h1>Diga quantas vezes a borboletinha quer vir para Itanhaém</h1>
       <Contador />
     </div>
   )
